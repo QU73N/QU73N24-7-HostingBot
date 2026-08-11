@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "24/7BotByAce",
     "password": "",
     "type": "offline"
   },
@@ -13,13 +13,13 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 0.300,
+    "y": -63.00000,
+    "z": 0.448
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 1200,
       "messages": [
-        "24/7 Bot by Ace Morgado",
+        "24/7 Bot is Active",
         ""
       ]
     },
